@@ -1,0 +1,11 @@
+{
+  "total_pages": 85,
+  "entities_found": 807,
+  "relations_found": 12,
+  "extraction_methods": {
+    "regex_pan": 76,
+    "regex_org": 236,
+    "ner_org": 1191,
+    "ner_person": 297
+  }
+}

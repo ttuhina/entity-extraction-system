@@ -1,0 +1,852 @@
+entity_type,entity_value,extraction_method
+PAN,AAGPL9225Q,regex
+PAN,AAPPG1338J,regex
+PAN,AAACM9185B,regex
+PAN,AABCO3506H,regex
+PAN,AIGPS1433B,regex
+PAN,BFUPK6760D,regex
+PAN,AADCD9678H,regex
+PAN,AACCD9817B,regex
+PAN,AADCE7290C,regex
+PAN,AAEHG7205B,regex
+PAN,AWJPG9626R,regex
+PAN,AAACN3607P,regex
+PAN,AAECR9659R,regex
+PAN,AADCR9667C,regex
+PAN,AAICS3344J,regex
+PAN,AADCE0088L,regex
+PAN,ALCPY3487E,regex
+PAN,AACPA9761E,regex
+PAN,AAFCM9969G,regex
+PAN,AANCS7666N,regex
+PAN,ACDFS3492D,regex
+PAN,AACCN7952M,regex
+PAN,AAXPK8350J,regex
+PAN,AACHH8750E,regex
+PAN,AAFPK4721R,regex
+PAN,AFHPJ0275Q,regex
+PAN,AAEHR5208M,regex
+PAN,AADCV4831G,regex
+PAN,ACRPR2362R,regex
+PAN,AADCV8452B,regex
+PAN,AAACS3356A,regex
+PAN,ADFPC4328R,regex
+PAN,ACFPR5859M,regex
+PAN,AADCH4445A,regex
+PAN,AAPPG1345M,regex
+PAN,AJRPK8212G,regex
+PAN,BMKPB4897F,regex
+PAN,ABBPA8231D,regex
+PAN,AAUFM6147N,regex
+PAN,BSFPM3219K,regex
+PAN,AADCV8456F,regex
+PAN,AAECA1487G,regex
+PAN,AAFCG6723L,regex
+PAN,AADCV6070D,regex
+PAN,AATCS6941G,regex
+PAN,AABCO2405K,regex
+PAN,ACDPD4284G,regex
+PAN,APZPS2922M,regex
+PAN,AADCE4004G,regex
+PAN,AAECG5864F,regex
+PAN,AABCF4418M,regex
+PAN,AAECB6648Q,regex
+PAN,AQSPR5044F,regex
+PAN,AABCO1420E,regex
+PAN,AOPPR4394M,regex
+PAN,ATFPK3499M,regex
+PAN,AAEHH5347D,regex
+PAN,AUOPB2860R,regex
+PAN,AAQPS9683R,regex
+PAN,AAECK1734G,regex
+PAN,AAMCS9707M,regex
+PAN,AAAHA4378M,regex
+PAN,AAACT5163G,regex
+PAN,AAUFM6247N,regex
+PAN,BBUPK5756R,regex
+PAN,AACCI3971M,regex
+PAN,AAYPA6162D,regex
+PAN,AAVFA6230F,regex
+PAN,ADZPK9924F,regex
+PAN,AAQCS6011A,regex
+PAN,AABCL8020H,regex
+Person,##jee,multiple
+Person,##bha,multiple
+Person,##shu Kat,multiple
+Person,##it Khandel,multiple
+Person,Drop,multiple
+Person,##am Agrawal,multiple
+Person,##RAS,multiple
+Person,Sunil Pas,multiple
+Person,##okkumar Aashish Bohra,multiple
+Person,##lde,multiple
+Person,##een,multiple
+Person,##h Kumar,multiple
+Person,Chandra,multiple
+Person,##ive,multiple
+Person,Pawan,multiple
+Person,##ASHD,multiple
+Person,##hul Goel,multiple
+Person,Om Prakash,multiple
+Person,Ramniwas Dahiya,multiple
+Person,Mano,multiple
+Person,##urushot,multiple
+Person,Samudhita,multiple
+Person,##tyanand Thakur,multiple
+Person,##pal,multiple
+Person,Aries,multiple
+Person,"Agarwal as the 
+alph",multiple
+Person,##k Gupta,multiple
+Person,##rvinder Singh,multiple
+Person,##dhi K,multiple
+Person,##v Goel,multiple
+Person,##m Lal Roy,multiple
+Person,##ju Rai,multiple
+Person,##tam Agarwal,multiple
+Person,Ram Yada,multiple
+Person,Sanjay Kumar Agarwal,multiple
+Person,##ma Sangla,multiple
+Person,##ubhu,multiple
+Person,##rvin,multiple
+Person,##ni Go,multiple
+Person,Kang,multiple
+Person,##ty,multiple
+Person,Maya Devi Khandelwal,multiple
+Person,##ok S,multiple
+Person,Madhur,multiple
+Person,Hans Raj Agarwal,multiple
+Person,Rajni Go,multiple
+Person,##dit Jain,multiple
+Person,##ga Kali Sundrapu,multiple
+Person,##HA,multiple
+Person,##ep Kaur,multiple
+Person,##SU,multiple
+Person,Tanmo,multiple
+Person,Rajni Goel,multiple
+Person,Kumar,multiple
+Person,Sanship,multiple
+Person,Sanjee,multiple
+Person,##s Bengani,multiple
+Person,##ami,multiple
+Person,Agarwal,multiple
+Person,##t Khandelwal,multiple
+Person,Amratlal Do,multiple
+Person,##hra Khandel,multiple
+Person,Yamini,multiple
+Person,##AN,multiple
+Person,Sunil Jain,multiple
+Person,Kumar Agarwal,multiple
+Person,##hra Khandelwal,multiple
+Person,##vin Kumar Agarwal,multiple
+Person,##l Kumar Agarwal,multiple
+Person,##ika,multiple
+Person,Shri,multiple
+Person,Surab,multiple
+Person,##sha Sharma,multiple
+Person,Arya,multiple
+Person,##pan Dalui,multiple
+Person,##ik Rajnik,multiple
+Person,##t Khandel,multiple
+Person,Vinima,multiple
+Person,##ika Agarwal,multiple
+Person,##HD,multiple
+Person,Kangad,multiple
+Person,##hot,multiple
+Person,##b S. Kangad,multiple
+Person,##la Bohra,multiple
+Person,##l Kumar S,multiple
+Person,##DRAP,multiple
+Person,##isan,multiple
+Person,##l Kumar Sharma,multiple
+Person,##wal,multiple
+Person,##t Sang,multiple
+Person,##ha Bohra,multiple
+Person,##RT,multiple
+Person,##b S Kang,multiple
+Person,##v Kumar Agarwal,multiple
+Person,##it B,multiple
+Person,##mlal Roy,multiple
+Person,Sulab,multiple
+Person,##uld,multiple
+Person,Surb,multiple
+Person,Harvin,multiple
+Person,##my,multiple
+Person,Rajeev Goel,multiple
+Person,MAAD,multiple
+Person,##shi,multiple
+Person,##di Devi,multiple
+Person,##HART,multiple
+Person,##BI,multiple
+Person,##kash Goenka,multiple
+Person,##VE,multiple
+Person,##b S,multiple
+Person,##it Rai,multiple
+Person,##a Bansal,multiple
+Person,##der Ka,multiple
+Person,##okkumar Aashish Bo,multiple
+Person,##pi,multiple
+Person,Vandana Agarwal,multiple
+Person,"RAM TRADERS 
+ACDFS",multiple
+Person,##y Roy,multiple
+Person,##ta,multiple
+Person,##ana,multiple
+Person,##jay Kumar Agarwal,multiple
+Person,##l Arun Agg,multiple
+Person,Rajib Kumar Sharma,multiple
+Person,##pal Bansal,multiple
+Person,Sure,multiple
+Person,##ush,multiple
+Person,##ndra Sharma,multiple
+Person,##LD,multiple
+Person,##ice,multiple
+Person,Vandan,multiple
+Person,RAM TRAD,multiple
+Person,##ra,multiple
+Person,##mini,multiple
+Person,Surendra Sharma,multiple
+Person,K Ashok Kumar,multiple
+Person,##j Sharma,multiple
+Person,##vin,multiple
+Person,Rajee,multiple
+Person,##DR,multiple
+Person,Ram Ya,multiple
+Person,##NDHA,multiple
+Person,##der Singh,multiple
+Person,##yan Prakash Rai,multiple
+Person,Maya Devi Khandel,multiple
+Person,##shu Kataruka,multiple
+Person,"OF THE NOTICEE 
+PAN",multiple
+Person,##RI,multiple
+Person,##jay Kumar,multiple
+Person,##urus,multiple
+Person,##u Agarwal,multiple
+Person,Sahanbhu,multiple
+Person,Tanma,multiple
+Person,Bohra,multiple
+Person,##rta Go,multiple
+Person,##a Agar,multiple
+Person,##garwal,multiple
+Person,##v Kumar Arya,multiple
+Person,##v Go,multiple
+Person,##tis,multiple
+Person,##am Agrawalis,multiple
+Person,Gurupree,multiple
+Person,RAJP,multiple
+Person,##sha S,multiple
+Person,Neptune,multiple
+Person,Chandra Prakash Balkisan,multiple
+Person,. C. Jain,multiple
+Person,##p Chakraborty,multiple
+Person,##shu Kataru,multiple
+Person,##hul Go,multiple
+Person,Ashok S,multiple
+Person,. Jain,multiple
+Person,##v Kumar A,multiple
+Person,##ki,multiple
+Person,##dhi Khandelwal,multiple
+Person,##rata,multiple
+Person,Rani Goel,multiple
+Person,##ada,multiple
+Person,##ima,multiple
+Person,##nd Thakur,multiple
+Person,##it Khandelwal,multiple
+Person,##s Bengan,multiple
+Person,Chandraprakash Balkisanji Ladd,multiple
+Person,##vin Kuma,multiple
+Organization,##PR,multiple
+Organization,Subhlabh Investment Consultant Pvt,multiple
+Organization,Overall,multiple
+Organization,Trucklink Vinmay Trading Pvt,multiple
+Organization,"Richi 
+Consultants Pvt",multiple
+Organization,Vindyavasini Agency,multiple
+Organization,##NAHART,multiple
+Organization,Investment Company and got listed on the BSE Ltd,multiple
+Organization,KATARU,multiple
+Organization,Tia Enterprise,multiple
+Organization,"Nisha Sharma to Overall Logistics 
+Private Limited and to Fortunate Infra Developers Private Limited",multiple
+Organization,##HANU,multiple
+Organization,##ND,multiple
+Organization,Aries Commercials,multiple
+Organization,SANG,multiple
+Organization,Chartered Accountancy,multiple
+Organization,##engus Power and Infra Ltd,multiple
+Organization,##YAVAS,multiple
+Organization,Trucklink Vinimay Trading Pvt. Ltd,multiple
+Organization,HARVI,multiple
+Organization,MAND,multiple
+Organization,SARASWA,multiple
+Organization,##gar,multiple
+Organization,Sanjay Kumar Agarwal,multiple
+Organization,##IN,multiple
+Organization,Aamir,multiple
+Organization,SARA,multiple
+Organization,##uld Trading Pvt. Ltd,multiple
+Organization,I note from the records that MKR Trading Pvt,multiple
+Organization,##EEPRA,multiple
+Organization,KYC DOC,multiple
+Organization,##INGH,multiple
+Organization,##AM,multiple
+Organization,Mkr Trading Pvt Ltd,multiple
+Organization,Private Limited,multiple
+Organization,Subhlabh Investment Consultant Pvt. Ltd,multiple
+Organization,"Noticee submitted that he was not connected to the promoters or Directors of the 
+Company",multiple
+Organization,SHUBHRA KHANDEL,multiple
+Organization,Maheshwari Financial Services Pvt,multiple
+Organization,##AV,multiple
+Organization,Anax,multiple
+Organization,GOEL A,multiple
+Organization,Yamini,multiple
+Organization,VINDYAV,multiple
+Organization,"It was submitted that the connection sought to be made between the Noticee and 
+Mould Trading Pvt",multiple
+Organization,Shubhdayak Tradex,multiple
+Organization,##NA,multiple
+Organization,KUMAR,multiple
+Organization,VIA ANAND RATHI,multiple
+Organization,JITENDR,multiple
+Organization,KOLKATA,multiple
+Organization,Sulabh Investment,multiple
+Organization,Trade Securities Ltd,multiple
+Organization,Goodpoint,multiple
+Organization,Director of Omakara Dealers Pvt,multiple
+Organization,"Fidelo from 
+Surya Build Pro Pvt",multiple
+Organization,Deveshwar Realty,multiple
+Organization,##rel,multiple
+Organization,##mon,multiple
+Organization,Supreme Court,multiple
+Organization,##GA,multiple
+Organization,Company,multiple
+Organization,Securities A,multiple
+Organization,Dhirga Marketing Pvt. Ltd,multiple
+Organization,##neha,multiple
+Organization,Directors of Rajpurana Digital Media Pvt,multiple
+Organization,Director of Krushuna Infra Property Pvt,multiple
+Organization,##rij Buildcon,multiple
+Organization,NIDHI KHANDELWAL,multiple
+Organization,##eshwar,multiple
+Organization,##ISHA SHARMA,multiple
+Organization,Maheshwari Financial Services Pvt. Ltd,multiple
+Organization,Kuber Dealcom Pvt,multiple
+Organization,Maheshwari Financial,multiple
+Organization,Prakash Balk,multiple
+Organization,"Order in 
+the matter of BP Comtrade Pvt",multiple
+Organization,MAAD,multiple
+Organization,ANKIT KHANDELWA,multiple
+Organization,SATIS,multiple
+Organization,RAM YADAV AL,multiple
+Organization,"Uniglory in an off market transaction 
+with Aengus Power and Infra Ltd",multiple
+Organization,M. P Polypropene Ltd,multiple
+Organization,Tia Enterprises,multiple
+Organization,##DI,multiple
+Organization,Rajputana Digital Media Pvt. Ltd,multiple
+Organization,VIVE,multiple
+Organization,SEBI,multiple
+Organization,##aruka,multiple
+Organization,##ddha,multiple
+Organization,VIMALA BOHRA,multiple
+Organization,It can therefore be noted that the trades of Maheshwari Financial Services,multiple
+Organization,VINDYAVASINI,multiple
+Organization,##KISAN,multiple
+Organization,Order in the matter of Yamini Investment Company Limited,multiple
+Organization,Surakshit,multiple
+Organization,PCB Group,multiple
+Organization,Subhlabh,multiple
+Organization,NISHA SHARMA AD,multiple
+Organization,"Vighnaharta Infra 
+Developers Pvt",multiple
+Organization,##ITENDRA KUMAR JITENDRA,multiple
+Organization,SH BOHRA BMKP,multiple
+Organization,VINDYAVASIN,multiple
+Organization,"P 
+Polypropene Ltd",multiple
+Organization,##NDAN,multiple
+Organization,VIA ANAND RATH,multiple
+Organization,##eenit Builders Private Limited,multiple
+Organization,KUMAR ARYA,multiple
+Organization,##UMAR AR,multiple
+Organization,RAMNI,multiple
+Organization,##DR,multiple
+Organization,Goodpoint Commodeal,multiple
+Organization,##DIA,multiple
+Organization,##YA BANSAL,multiple
+Organization,Optimal Farms Pvt. Ltd,multiple
+Organization,"Toor Finance 
+Company Ltd",multiple
+Organization,DHANSAKTI,multiple
+Organization,It was submitted that she had acquired shares of Anax directly from the Company,multiple
+Organization,SARASWATI,multiple
+Organization,J AND N JAISW,multiple
+Organization,##JP,multiple
+Organization,"Uniglory in an off market transaction with Aengus 
+Power and Infra Ltd",multiple
+Organization,Maheshwari Financial Services,multiple
+Organization,##YAN,multiple
+Organization,MAHESHWARI,multiple
+Organization,KURLA BRANCH,multiple
+Organization,"It 
+was submitted that this was an independent transaction entered into by India Finsec 
+Ltd",multiple
+Organization,SARAS,multiple
+Organization,HARVIND,multiple
+Organization,Samrat,multiple
+Organization,Omakara Dealers Pvt. Ltd,multiple
+Organization,Tribunal,multiple
+Organization,Bombay High Court,multiple
+Organization,##UM,multiple
+Organization,Ram Traders,multiple
+Organization,Mould Trading Pvt,multiple
+Organization,KUMAR AR,multiple
+Organization,Neptune Financial,multiple
+Organization,##JNI GOEL,multiple
+Organization,Aggrawal,multiple
+Organization,Everblink Agency,multiple
+Organization,BANSAL,multiple
+Organization,VIGHNAHARTA,multiple
+Organization,Dhirga Marketing Pvt,multiple
+Organization,##OLUM,multiple
+Organization,Imagine,multiple
+Organization,Omkara Dealer,multiple
+Organization,MAIL,multiple
+Organization,Premlal Roy is enquiring as to whether India Finsec Ltd,multiple
+Organization,Krushna Infra Property Pvt. Ltd,multiple
+Organization,J AND,multiple
+Organization,Mould Trading Pvt. Ltd,multiple
+Organization,High Court of Mumbai,multiple
+Organization,BSE Ltd,multiple
+Organization,##h Kumar,multiple
+Organization,Krushana Infra,multiple
+Organization,##ASHD,multiple
+Organization,Ramniwas Dahiya,multiple
+Organization,##D RATH,multiple
+Organization,Surakshit Mercantile,multiple
+Organization,Fort,multiple
+Organization,SARD,multiple
+Organization,Investment Company,multiple
+Organization,Headfi,multiple
+Organization,BUILDCO,multiple
+Organization,Company B,multiple
+Organization,Imagine Logistics,multiple
+Organization,"The registered 
+office of the Company",multiple
+Organization,"Fortune Infra Developers 
+Pvt",multiple
+Organization,##WA,multiple
+Organization,##lal,multiple
+Organization,VIMA,multiple
+Organization,Premlal Roy,multiple
+Organization,##YA BANS,multiple
+Organization,##urushottam Agarwal,multiple
+Organization,Imagine Logistics Pvt,multiple
+Organization,MKR Trading Pvt. Ltd,multiple
+Organization,Surakshit Mercantile Pvt,multiple
+Organization,##ES,multiple
+Organization,Veenit Builders Private Limited,multiple
+Organization,PCAS,multiple
+Organization,##KR Trading Pvt. Ltd,multiple
+Organization,Sahanbhuti Agencies,multiple
+Organization,##BHDA,multiple
+Organization,30 Ltd,multiple
+Organization,Fidelo Power and Infrastructure Ltd,multiple
+Organization,##untancy,multiple
+Organization,##ant,multiple
+Organization,Vinimay Pvt Ltd,multiple
+Organization,Surbhi Infraprojects Pvt,multiple
+Organization,KUMAR SHARMA,multiple
+Organization,SATVIND,multiple
+Organization,ARASAR,multiple
+Organization,ICICI,multiple
+Organization,"Agarwal was only an independent Director in the 
+Company",multiple
+Organization,"Shubhdayak 
+Tradex Pvt",multiple
+Organization,BAND,multiple
+Organization,Krushna Infra Property Pvt,multiple
+Organization,Vindyavasini Agency Pvt. Ltd,multiple
+Organization,##AB S KAN,multiple
+Organization,Goldensight,multiple
+Organization,Excellent,multiple
+Organization,##UMAR,multiple
+Organization,"Autolite Agencies 
+Pvt",multiple
+Organization,##ighnaharta Infra Developers Private Limited,multiple
+Organization,"Dace 
+Exim Pvt",multiple
+Organization,##NEHA BOH,multiple
+Organization,##wal,multiple
+Organization,SMC India,multiple
+Organization,Shri Ram Traders,multiple
+Organization,"Director would be on the Board of company A and B and 
+another person on the Board of Company",multiple
+Organization,SHIVRAV,multiple
+Organization,CDSL E,multiple
+Organization,"Noticee submitted that its Karta Gopal Bansal was an executive Director of India 
+Finsec Ltd",multiple
+Organization,Baldevsinh,multiple
+Organization,Komalis,multiple
+Organization,Director in Ridhi Sidhi Advisory Pvt,multiple
+Organization,##BR,multiple
+Organization,Surbhi Infraprojects Pvt. Ltd,multiple
+Organization,Trucklink Vinmay Trading Pvt. Ltd,multiple
+Organization,##cospace Infotech,multiple
+Organization,"SCN pertain to the period when the 
+earlier management was in charge of the affairs of the Company",multiple
+Organization,VIVEK GUPTA,multiple
+Organization,Vijaysinh Zala,multiple
+Organization,KHANDEL,multiple
+Organization,Devi,multiple
+Organization,Vindyavasini Agency Pvt Ltd,multiple
+Organization,Overall Logistics,multiple
+Organization,Fidelo,multiple
+Organization,Madhur Group,multiple
+Organization,MKR Trading Pvt,multiple
+Organization,VINDHYAVASINI,multiple
+Organization,JATAL,multiple
+Organization,NIDHI KHANDEL,multiple
+Organization,"Similar pattern was 
+followed three more times by Veenit Builders Private Limited",multiple
+Organization,Yamini Investment Company Ltd,multiple
+Organization,GOEL,multiple
+Organization,Vandan,multiple
+Organization,##U AGARWAL,multiple
+Organization,RAHU,multiple
+Organization,"Mould was connected to Trucklink Vinimay 
+Trading Pvt",multiple
+Organization,LINKUP,multiple
+Organization,Vindyavasini Agency Pvt,multiple
+Organization,LADD,multiple
+Organization,##HANUB,multiple
+Organization,RATH,multiple
+Organization,Surakshit Merchants Pvt. Ltd,multiple
+Organization,##NAHA,multiple
+Organization,"Stellar Capital 
+Services Ltd",multiple
+Organization,VEEPR,multiple
+Organization,Fortunate Infra,multiple
+Organization,##BH,multiple
+Organization,CHANDRAP,multiple
+Organization,Sunil Jain HUF,multiple
+Organization,Notice,multiple
+Organization,Maheshwari Financials and Madhur Buildcon Pvt,multiple
+Organization,##OLA DEL,multiple
+Organization,##icee and Mould Trading Pvt. Ltd,multiple
+Organization,Director of Ridhi Sidhi Advisory Pvt,multiple
+Organization,MSB E - Trade Securities Ltd,multiple
+Organization,##delo,multiple
+Organization,Dace Exim Pvt,multiple
+Organization,PGUP,multiple
+Organization,Post Split,multiple
+Organization,##BHRA KHANDELWA,multiple
+Organization,Surakshit Mercantile Pvt. Ltd,multiple
+Organization,Madhur Buildcon Pvt Ltd,multiple
+Organization,Surakshit Merchants,multiple
+Organization,MAHESHWARI F,multiple
+Organization,Allottees,multiple
+Organization,##NS,multiple
+Organization,SAMUDHIT,multiple
+Organization,SEEMA SANG,multiple
+Organization,Yamini ”,multiple
+Organization,##NSHAKTI,multiple
+Organization,BALKISAN,multiple
+Organization,SANS,multiple
+Organization,SOMYA,multiple
+Organization,Madhur Buildcon Pvt,multiple
+Organization,Drop,multiple
+Organization,RAMAS,multiple
+Organization,##WARI,multiple
+Organization,ADEX,multiple
+Organization,MANDHA,multiple
+Organization,INFRA DE,multiple
+Organization,##D RA,multiple
+Organization,##KATA,multiple
+Organization,RAJNI GOEL,multiple
+Organization,VINDHYAVAS,multiple
+Organization,EINS,multiple
+Organization,Veepra Realestate Consultants Pvt,multiple
+Organization,Aries,multiple
+Organization,"Hans Raj Agarwal was taken by 
+Vighnaharta Infra Developers Private Limited",multiple
+Organization,##eepra Realesatate,multiple
+Organization,Optimal Farms Pvt,multiple
+Organization,Surabhi Dealmark,multiple
+Organization,##RD,multiple
+Organization,##CI,multiple
+Organization,##A DEVI KHANDELWA,multiple
+Organization,Neptune Financial Advisory Pvt,multiple
+Organization,Sahanbhuti Agencies Pvt,multiple
+Organization,Mould,multiple
+Organization,KAUR,multiple
+Organization,I also note that Rajputana Digital Media Pvt,multiple
+Organization,It was submitted that there was a change in management of the Company,multiple
+Organization,##UF,multiple
+Organization,ANKIT KHANDEL,multiple
+Organization,CHANDR,multiple
+Organization,"Fortunate Infra 
+Developers Private Limited",multiple
+Organization,C EMAIL D,multiple
+Organization,Bhavan,multiple
+Organization,Krushuna Infra Property Pvt. Ltd,multiple
+Organization,EMLAL ROY,multiple
+Organization,"Director 
+of Madhur Buildcon Pvt Ltd",multiple
+Organization,VIGHNAHRTA IN,multiple
+Organization,Shubhdayak Tradex Pvt. Ltd,multiple
+Organization,Overarching Dealers,multiple
+Organization,##OKKUM,multiple
+Organization,##NDANA,multiple
+Organization,GUPTA,multiple
+Organization,##YO,multiple
+Organization,##TA,multiple
+Organization,UDYO,multiple
+Organization,Sanjeev Kumar Aggrawal,multiple
+Organization,SHUBHRA KHAND,multiple
+Organization,"Similar pattern 
+was followed two more times by Overall Logistics Private Limited",multiple
+Organization,##HD,multiple
+Organization,D DEBABRATA,multiple
+Organization,E Tricks Enterprises Pvt. Ltd,multiple
+Organization,BRAJ,multiple
+Organization,Securities Appellate Tribunal,multiple
+Organization,VINDHYAVASIN,multiple
+Organization,##DRAP,multiple
+Organization,Stellar,multiple
+Organization,"Fortunate Infra Developers 
+Private Limited",multiple
+Organization,##GHNAHART,multiple
+Organization,ASHWANI BHATIA,multiple
+Organization,Pvt. Ltd,multiple
+Organization,"I further note that Maheshwari Financial 
+Services Pvt",multiple
+Organization,##AD,multiple
+Organization,Scheme of Amalgamation,multiple
+Organization,##NGAL,multiple
+Organization,JAMUNA RAMASUBRAMANIAM,multiple
+Organization,VANIJ,multiple
+Organization,Stellar Capital Services Ltd,multiple
+Organization,SANJ,multiple
+Organization,##shi,multiple
+Organization,##NSHAK,multiple
+Organization,P Polypropene Ltd,multiple
+Organization,VIND,multiple
+Organization,Director of Neptune Financial Advisory Pvt,multiple
+Organization,Toor Finance Company Ltd,multiple
+Organization,RMCL,multiple
+Organization,KHANDELWA,multiple
+Organization,##gamation,multiple
+Organization,Madhur Buildcon,multiple
+Organization,##icee,multiple
+Organization,##eenit Builders Pvt. Ltd,multiple
+Organization,##IA,multiple
+Organization,##IL,multiple
+Organization,##ID,multiple
+Organization,Hold,multiple
+Organization,KYC of,multiple
+Organization,Linkup Vintrade Pvt. Ltd,multiple
+Organization,SAMUDHITA VANIJYA,multiple
+Organization,Vighnaharta Infra Developers Pvt. Ltd,multiple
+Organization,Sahanbhuti Agencies P,multiple
+Organization,The paid up equity share capital of the Company,multiple
+Organization,RD OF INDIA,multiple
+Organization,It was submitted that the Company,multiple
+Organization,##LD,multiple
+Organization,SHRI PARA,multiple
+Organization,K ASH,multiple
+Organization,##ENDR,multiple
+Organization,SAMUDHITA,multiple
+Organization,Veepra Realestate Consultants Pvt. Ltd,multiple
+Organization,IKisan Ltd,multiple
+Organization,MANI,multiple
+Organization,SHRI PARASA,multiple
+Organization,Nicky Marmo Ltd,multiple
+Organization,VEEPRA,multiple
+Organization,Stellar Capital,multiple
+Organization,##RI,multiple
+Organization,DAHIY,multiple
+Organization,Rajpurana Digital Media Pvt. Ltd,multiple
+Organization,Omkara Dealers Pvt. Ltd,multiple
+Organization,Goodpoint Commodeal Pvt. Ltd,multiple
+Organization,Maheshwari Financials,multiple
+Organization,DEVI KHANDEL,multiple
+Organization,BP Comtrade Pvt. Ltd,multiple
+Organization,SOMYA BA,multiple
+Organization,##HNAHARTA,multiple
+Organization,Anax Com Trade Ltd,multiple
+Organization,##rave,multiple
+Organization,##YA BA,multiple
+Organization,##ESHWARI F,multiple
+Organization,RS P,multiple
+Organization,Dhanshakti,multiple
+Organization,##UPTA,multiple
+Organization,Neptune,multiple
+Organization,##AR,multiple
+Organization,Scheme of Am,multiple
+Organization,Rich,multiple
+Organization,##NUB,multiple
+Organization,SEBI4,multiple
+Organization,Stellar Capital Services,multiple
+Organization,Laddha,multiple
+Organization,EINS Edutech Ltd,multiple
+Organization,OMKARA,multiple
+Organization,Securities and Exchange Board of India,multiple
+Organization,Deveshwar Reality,multiple
+Organization,"It is noted that Surendra 
+Sharma was also a Director of Krushana Infra Property Pvt",multiple
+Organization,It was submitted that he had purchased shares of Uniglory Developers Ltd,multiple
+Organization,SAHANUB,multiple
+Organization,##hansakti,multiple
+Organization,Veenit Builders Pvt,multiple
+Organization,Omkara,multiple
+Organization,Dhirga,multiple
+Organization,##HNA,multiple
+Organization,##AVAS,multiple
+Organization,"Stock Exchanges, Depo",multiple
+Organization,VIGHNAHARTA IN,multiple
+Organization,Moonlight Udyog,multiple
+Organization,Ridhi Sidhi Advisory Pvt. Ltd,multiple
+Organization,Developers Private Limited,multiple
+Organization,Premlal,multiple
+Organization,Neptune Financial Advisory Pvt. Ltd,multiple
+Organization,OMKA,multiple
+Organization,##AL,multiple
+Organization,RAJPUTANA,multiple
+Organization,##ies,multiple
+Organization,SH KUMAR,multiple
+Organization,##PRA,multiple
+Organization,RABIKANA,multiple
+Organization,Yamini Investment Company Limited,multiple
+Organization,"I further note that Maheshwari Financial 
+Services",multiple
+Organization,"SCN pertain to the period when the earlier management 
+was in charge of the affairs of the Company",multiple
+Organization,It is also noted that that Headfirst Vinimay Pvt Ltd,multiple
+Organization,##HAWA,multiple
+Organization,Madhur,multiple
+Organization,RCL Retail Ltd,multiple
+Organization,##hare Transfer Agents,multiple
+Organization,KYC DAT,multiple
+Organization,Bansal,multiple
+Organization,"Sahanbhuti 
+Agencies Pvt",multiple
+Organization,Natural Investment Manag,multiple
+Organization,##idhi Sidhi Advisory Pvt. Ltd,multiple
+Organization,Sanshipt,multiple
+Organization,##UBH,multiple
+Organization,INFRA,multiple
+Organization,R KAUR,multiple
+Organization,J AND N,multiple
+Organization,##AN,multiple
+Organization,##trar,multiple
+Organization,Board,multiple
+Organization,India Finsec Ltd,multiple
+Organization,SANSH,multiple
+Organization,##NSAKTI,multiple
+Organization,Fortunate and Toor,multiple
+Organization,“ Division,multiple
+Organization,Group,multiple
+Organization,##OH,multiple
+Organization,##le,multiple
+Organization,##ne,multiple
+Organization,SHAR,multiple
+Organization,J AND N JA,multiple
+Organization,ANSHU KATARU,multiple
+Organization,It can therefore be noted that the trades of Maheshwari Financial Services Pvt,multiple
+Organization,Toor Finance,multiple
+Organization,##NG,multiple
+Organization,BRAJENDRA K,multiple
+Organization,SEEMA SANGLA,multiple
+Organization,NIDHI KHANDELWA,multiple
+Organization,Kuber Dealcom Pvt. Ltd,multiple
+Organization,Dace Exim Pvt. Ltd,multiple
+Organization,Madhur Buildcon Pvt. Ltd,multiple
+Organization,Sahanbhuti Agencies Pvt. Ltd,multiple
+Organization,ASAF AL,multiple
+Organization,"Directors Nityanand 
+Thakur and Rajib Kumar Sharma were Directors of Rajputana Digital Media Pvt",multiple
+Organization,PRAV,multiple
+Organization,Linkup Vintrade Pvt,multiple
+Organization,Exchange Board of India,multiple
+Organization,##HNAHA,multiple
+Organization,Imagine Logistics Pvt. Ltd,multiple
+Organization,##YAVASIN,multiple
+Organization,Toor,multiple
+Organization,##hta,multiple
+Organization,##KARA,multiple
+Organization,##ANCI,multiple
+Organization,Overall Logistics Private Limited,multiple
+Organization,Fortunate Infra Developers Private Limited,multiple
+Organization,Exchanges,multiple
+Organization,##YAN PRAKA,multiple
+Organization,CDSL,multiple
+Organization,Direct Mercantile Company Pvt. Ltd,multiple
+Organization,##MALA,multiple
+Organization,Toor Finance Company,multiple
+Organization,##NJ,multiple
+Organization,##AT,multiple
+Organization,##KTI,multiple
+Organization,Uniglory,multiple
+Organization,LADDHA,multiple
+Organization,RAJPUTAN,multiple
+Organization,“ Company,multiple
+Organization,"The total 
+assets of the Company",multiple
+Organization,Fortune Infra Developers Pvt. Ltd,multiple
+Organization,##TH,multiple
+Organization,##NSAK,multiple
+Organization,Director of Omkara Dealers Pvt,multiple
+Organization,It was submitted that she had purchased shares of Uniglory Developers Ltd,multiple
+Organization,Investigation Department,multiple
+Organization,The Company,multiple
+Organization,##mini,multiple
+Organization,"Stellar Capital Services 
+Ltd",multiple
+Organization,Direct Mercantile Company Pvt,multiple
+Organization,DEBABR,multiple
+Organization,SNEHA BOHRA,multiple
+Organization,Mould Trading P,multiple
+Organization,##HDA,multiple
+Organization,Consultants,multiple
+Organization,##ad,multiple
+Organization,JITENDRA,multiple
+Organization,Overall Logistics Private Ltd,multiple
+Organization,"Stellar Capital 
+Services",multiple
+Organization,VIA SM,multiple
+Organization,##AVASIN,multiple
+Organization,##KA,multiple
+Organization,The scrip of the Company,multiple
+Organization,##KUMAR,multiple
+Organization,Surbhi,multiple
+Organization,Surya Build Pro Pvt. Ltd,multiple
+Organization,Krushana Infra Property Pvt. Ltd,multiple
+Organization,INDI,multiple
+Organization,"Directors Nityanand 
+Thakur and Rajib Kumar Sharma were Directors of Goodpoint Commodeal Pvt",multiple
+Organization,##hra,multiple
+Organization,##OGIST,multiple
+Organization,Director of E Tricks Enterprises Pvt,multiple
+Organization,Moonlight,multiple
+Organization,##s Pvt. Ltd,multiple
+Organization,Subhlab,multiple
+Organization,Ecospace Infotech,multiple
+Organization,VIA AN,multiple
+Organization,##ER KYC,multiple
+Organization,##MU,multiple
+Organization,Autolite Agencies Pvt. Ltd,multiple
+Organization,##jeev,multiple
+Organization,Surakshit Merchants Pvt,multiple
+Organization,"Director of Natural Investment Management 
+Pvt",multiple
+Organization,##gam,multiple
+Organization,DHANSHAKTI,multiple
+Organization,Autolite Agencies Pvt,multiple
+Organization,Goldensight Commotrade,multiple
+Organization,JNI GOEL,multiple
+Organization,Uniglory Developers Ltd,multiple

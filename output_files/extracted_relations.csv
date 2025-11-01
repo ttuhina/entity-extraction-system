@@ -1,0 +1,20 @@
+entity_pan,relation,entity_person_org,confidence,method
+AAACM9185B,PAN_Of,"OF THE NOTICEE 
+PAN",0.9,context_proximity
+ACRPR2362R,PAN_Of,RAM TRAD,0.9,context_proximity
+AAVFA6230F,PAN_Of,"RAM TRADERS 
+ACDFS",0.9,context_proximity
+AAUFM6147N,PAN_Of,"RAM TRADERS 
+ACDFS",0.9,context_proximity
+ACDFS3492D,PAN_Of,"RAM TRADERS 
+ACDFS",0.9,context_proximity
+AAGPL9225Q,PAN_Of,"RAM TRADERS 
+ACDFS",0.9,context_proximity
+AAUFM6247N,PAN_Of,"Agarwal as the 
+alph",0.9,context_proximity
+AAUFM6247N,PAN_Of,"Agarwal as the 
+alph",0.9,context_proximity
+AACCD9817B,PAN_Of,##HART,0.6,ner_fallback
+AACCD9817B,PAN_Of,##HART,0.6,ner_fallback
+AAVFA6230F,PAN_Of,##HA,0.6,ner_fallback
+AAVFA6230F,PAN_Of,RAJP,0.6,ner_fallback

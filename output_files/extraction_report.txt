@@ -1,0 +1,99 @@
+======================================================================
+ENTITY EXTRACTION - COMPREHENSIVE RESULTS REPORT
+Generated: 2025-11-01 19:50:43
+======================================================================
+
+📊 OVERALL STATISTICS
+----------------------------------------------------------------------
+Total Pages Processed: 85
+Total Entities Found: 807
+Total Relations Found: 12
+
+Extraction Methods Used:
+  - regex_pan: 76
+  - regex_org: 236
+  - ner_org: 1191
+  - ner_person: 297
+
+🔗 EXTRACTED RELATIONS
+----------------------------------------------------------------------
+Total Relations: 12
+
+Sample Relations (Top 10):
+
+  AAACM9185B → PAN_Of → OF THE NOTICEE 
+PAN
+     Confidence: 0.90 | Method: context_proximity
+
+  ACRPR2362R → PAN_Of → RAM TRAD
+     Confidence: 0.90 | Method: context_proximity
+
+  AAVFA6230F → PAN_Of → RAM TRADERS 
+ACDFS
+     Confidence: 0.90 | Method: context_proximity
+
+  AAUFM6147N → PAN_Of → RAM TRADERS 
+ACDFS
+     Confidence: 0.90 | Method: context_proximity
+
+  ACDFS3492D → PAN_Of → RAM TRADERS 
+ACDFS
+     Confidence: 0.90 | Method: context_proximity
+
+  AAGPL9225Q → PAN_Of → RAM TRADERS 
+ACDFS
+     Confidence: 0.90 | Method: context_proximity
+
+  AAUFM6247N → PAN_Of → Agarwal as the 
+alph
+     Confidence: 0.90 | Method: context_proximity
+
+  AAUFM6247N → PAN_Of → Agarwal as the 
+alph
+     Confidence: 0.90 | Method: context_proximity
+
+  AACCD9817B → PAN_Of → ##HART
+     Confidence: 0.60 | Method: ner_fallback
+
+  AACCD9817B → PAN_Of → ##HART
+     Confidence: 0.60 | Method: ner_fallback
+
+📈 CONFIDENCE DISTRIBUTION
+----------------------------------------------------------------------
+High Confidence (≥0.8): 8 (66.7%)
+Medium Confidence (0.6-0.8): 4 (33.3%)
+Low Confidence (<0.6): 0 (0.0%)
+
+Extraction Method Breakdown:
+  - context_proximity: 8 (66.7%)
+  - ner_fallback: 4 (33.3%)
+
+📋 EXTRACTED ENTITIES BY TYPE
+----------------------------------------------------------------------
+Organization: 553
+Person: 183
+PAN: 71
+
+Sample Entities by Type:
+
+Organization:
+  - ##PR
+  - Subhlabh Investment Consultant Pvt
+  - Overall
+  - Trucklink Vinmay Trading Pvt
+  - Richi 
+Consultants Pvt
+
+Person:
+  - ##jee
+  - ##bha
+  - ##shu Kat
+  - ##it Khandel
+  - Drop
+
+PAN:
+  - AAGPL9225Q
+  - AAPPG1338J
+  - AAACM9185B
+  - AABCO3506H
+  - AIGPS1433B
