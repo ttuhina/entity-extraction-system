@@ -290,7 +290,7 @@ PDF Input → Text Extraction → Multi-Method Processing → Validation → Out
 
 **GitHub Repository:** [https://github.com/ttuhina/entity-extraction](https://github.com/ttuhina/entity-extraction)  
 **Student Email:** tuhinac2004@gmail.com  
-**LinkedIn:** [Connect with me](https://www.linkedin.com/in/ttuhina)
+**LinkedIn:** [Connect with me]([https://www.linkedin.com/in/ttuhina](https://www.linkedin.com/in/tuhina-chakravarti-in/))
 
 ---
 
