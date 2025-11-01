@@ -1,6 +1,5 @@
 # Entity Extraction Assignment 
 
-**Student:** Tuhina  
 **Email:** tuhinac2004@gmail.com  
 **GitHub:** [@ttuhina](https://github.com/ttuhina)  
 **Assignment Provider:** IntelliSQR  
