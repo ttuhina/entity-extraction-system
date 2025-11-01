@@ -45,13 +45,6 @@ wheels/
 .AppleDouble
 .LSOverride
 
-# Large PDF files (optional - remove if you want to include sample PDFs)
-input_files/*.pdf
-
-# Output files (optional - keep one sample, exclude others)
-# output_files/*.csv
-# output_files/*.json
-
 # Model cache
 models/
 .cache/
