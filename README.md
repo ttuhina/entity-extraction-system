@@ -225,30 +225,17 @@ This provides:
 - Entity type statistics
 - PAN format validation results
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your_username](https://github.com/your_username)
-- Email: your.email@example.com
+- GitHub: [@ttuhina](https://github.com/ttuhina)
+- Email: tuhinac2004@gmail.com
 
 ## 🙏 Acknowledgments
 
 - Transformer models from HuggingFace
 - PyMuPDF for PDF processing
-- Assignment provided by [Institution Name]
+- Assignment provided by IntelliSQR
 
-## 📞 Support
 
-For issues or questions, please open an issue on GitHub or contact me directly.
-
----
-
-⭐ If you find this project useful, please consider giving it a star!
