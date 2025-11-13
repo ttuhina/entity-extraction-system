@@ -1,15 +1,3 @@
-# Entity Extraction Assignment 
-
-**Email:** tuhinac2004@gmail.com  
-**GitHub:** [@ttuhina](https://github.com/ttuhina)  
-**Assignment Provider:** IntelliSQR  
-**Date:** November 2025
-
----
-
-## 📋 Assignment Objective
-
-Extract entities and relations from an 85-page PDF document containing tables, text, and organizational information.
 
 **Required Entities:**
 - Organizations
@@ -296,7 +284,6 @@ PDF Input → Text Extraction → Multi-Method Processing → Validation → Out
 
 ## 🙏 Acknowledgments
 
-- **IntelliSQR** for the assignment and opportunity
 - **HuggingFace** for transformer models and libraries
 - **PyMuPDF Team** for excellent PDF processing tools
 - **Open-source community** for the tools and frameworks used
